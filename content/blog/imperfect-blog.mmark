@@ -1,0 +1,31 @@
++++
+author = ""
+categories = [""]
+date = ""
+description = ""
+featured = ""
+featuredalt = ""
+featuredpath = ""
+linktitle = ""
+title = ""
+type = "post"
+
++++
+
+Cut out summary from your post content here.
+
+
+this is really funny $e = mc^2$, and also how about this:
+
+<!--more-->
+
+<div>
+$$
+\begin{align}
+x &= \sum_{i=1}^n x_i \\
+  &= \int_0^1 \exp(-\beta x_i)
+  \end{align}
+  $$
+  </div>
+
+How is this working

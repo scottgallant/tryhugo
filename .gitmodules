@@ -7,3 +7,9 @@
 [submodule "themes/dream"]
 	path = themes/dream
 	url = https://github.com/g1eny0ung/hugo-theme-dream.git
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/imperfect"]
+	path = themes/imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
