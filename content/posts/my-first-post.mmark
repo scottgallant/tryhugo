@@ -2,6 +2,7 @@
 title: "My First Post"
 date: 2018-02-06T16:57:00-05:00
 draft: true
+markup: mmark
 ---
 
 
@@ -9,7 +10,10 @@ this is really funny $e = mc^2$, and also how about this:
 
 <div>
 $$
-x = \sum_{i=1}^n x_i
+\begin{align}
+x &= \sum_{i=1}^n x_i \\
+  &= \int_0^1 \exp(-\beta x_i)
+\end{align}
 $$
 </div>
 
