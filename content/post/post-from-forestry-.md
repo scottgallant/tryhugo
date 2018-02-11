@@ -15,6 +15,8 @@ draft: true
 
 inline math single-dollar wi=xi+∑1iyi
 
+mathjax fails on forestry
+
 and what about display math
 
 <div> x=n∑i=1xi =∫10exp(−βxi) </div>
