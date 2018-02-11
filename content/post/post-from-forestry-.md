@@ -1,8 +1,11 @@
 ---
 title: 'post from forestry '
 date: 2018-02-11 08:11:47 +0000
-subtitle: ''
-tags: []
+subtitle: testing out math with forestry
+tags:
+- math
+- mathjax
+- forestry
 undefined: ''
 text: ''
 draft: true
