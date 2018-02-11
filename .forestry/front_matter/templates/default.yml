@@ -1,7 +1,7 @@
 ---
 pages:
 - post/post-from-forestry-.md
-hide_body: false
+hide_body: true
 fields:
 - name: title
   label: Title
@@ -30,3 +30,4 @@ fields:
     wysiwyg: true
   label: text
   name: text
+- type: textarea
