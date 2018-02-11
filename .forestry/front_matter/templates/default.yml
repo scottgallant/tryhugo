@@ -23,3 +23,10 @@ fields:
   type: tag_list
   hidden: false
   default: []
+- type: text
+- type: textarea
+- type: textarea
+  config:
+    wysiwyg: true
+  label: text
+  name: text
