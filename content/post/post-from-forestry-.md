@@ -10,22 +10,16 @@ draft: true
 ---
 ## hope this works
 
-inline math $$w_i = x_i + \sum_{i=1}^n y_i$$
+inline math single-dollar wi=xi+∑1iyi
 
 and what about display math
 
-<div>
-$$
-\begin{align}
-x &= \sum_{i=1}^n x_i \\
-  &= \int_0^1 \exp(-\beta x_i)
- \end{align}
- $$
- </div>
+<div> x=n∑i=1xi =∫10exp(−βxi) </div>
 
 > why is this quoted haha
 
 And some items:
-- one
-- two
-- three
+
+* one
+* two
+* three
