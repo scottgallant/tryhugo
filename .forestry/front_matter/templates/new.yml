@@ -1,4 +1,6 @@
 ---
+pages:
+- post/another-test.md
 hide_body: true
 fields:
 - type: textarea
