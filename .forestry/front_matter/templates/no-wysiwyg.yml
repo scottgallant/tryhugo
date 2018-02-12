@@ -1,7 +1,0 @@
----
-pages:
-- post/new-template.md
-hide_body: false
-fields:
-- type: textarea
-  default: lorem ipsum
