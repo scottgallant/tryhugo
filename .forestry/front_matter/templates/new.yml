@@ -1,0 +1,5 @@
+---
+hide_body: true
+fields:
+- type: textarea
+  default: ddd
