@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on What was I thinking</title>
+    <link>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/</link>
+    <description>Recent content in Tags on What was I thinking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Sun, 11 Feb 2018 08:11:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://0feg5v2gblye1a.staging-previews.forestry.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forestry</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/forestry/</link>
+      <pubDate>Sun, 11 Feb 2018 08:11:47 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/forestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/math/</link>
+      <pubDate>Sun, 11 Feb 2018 08:11:47 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathjax</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/mathjax/</link>
+      <pubDate>Sun, 11 Feb 2018 08:11:47 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag1</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/tag1/</link>
+      <pubDate>Fri, 09 Feb 2018 21:59:01 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/tag2/</link>
+      <pubDate>Fri, 09 Feb 2018 21:59:01 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What was I thinking</title>
+    <link>http://0feg5v2gblye1a.staging-previews.forestry.io/</link>
+    <description>Recent content on What was I thinking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Sun, 11 Feb 2018 21:51:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://0feg5v2gblye1a.staging-previews.forestry.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>another test</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/post/another-test/</link>
+      <pubDate>Sun, 11 Feb 2018 21:51:26 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/post/another-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new template</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/post/new-template/</link>
+      <pubDate>Sun, 11 Feb 2018 21:50:21 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/post/new-template/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>post from forestry </title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/post/post-from-forestry-/</link>
+      <pubDate>Sun, 11 Feb 2018 08:11:47 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/post/post-from-forestry-/</guid>
+      <description> hope this works inline math single-dollar wi=xi+∑1iyi
+mathjax fails on forestry
+and what about display math
+ x=n∑i=1xi =∫10exp(−βxi)   why is this quoted haha
+ And some items:
+ one two three  </description>
+    </item>
+    
+    <item>
+      <title>Tranquil Post</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/post/tranquil-post/</link>
+      <pubDate>Fri, 09 Feb 2018 21:59:01 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/post/tranquil-post/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/post/my-second-post/</link>
+      <pubDate>Fri, 09 Feb 2018 18:48:04 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/post/my-second-post/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;
+
+&lt;p&gt;this is really funny e=mc2, and also how about this:&lt;/p&gt;
+
+&lt;p&gt;Ok let&#39;s see if this sticks...&lt;/p&gt;
+
+&lt;p&gt;how about this e=mc2&lt;/p&gt;
+
+&lt;p&gt;And no math?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/posts/my-second-post/</link>
+      <pubDate>Fri, 09 Feb 2018 18:43:49 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/posts/my-first-post/</link>
+      <pubDate>Tue, 06 Feb 2018 16:57:00 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/posts/my-first-post/</guid>
+      <description>this is really funny $e = mc^2$, and also how about this:
+ $$ \begin{align} x &amp;= \sum_{i=1}^n x_i \\ &amp;= \int_0^1 \exp(-\beta x_i) \end{align} $$  How is this working</description>
+    </item>
+    
+  </channel>
+</rss>

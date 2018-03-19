@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on What was I thinking</title>
+    <link>http://0feg5v2gblye1a.staging-previews.forestry.io/tags/math/</link>
+    <description>Recent content in Math on What was I thinking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Sun, 11 Feb 2018 08:11:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://0feg5v2gblye1a.staging-previews.forestry.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>post from forestry </title>
+      <link>http://0feg5v2gblye1a.staging-previews.forestry.io/post/post-from-forestry-/</link>
+      <pubDate>Sun, 11 Feb 2018 08:11:47 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://0feg5v2gblye1a.staging-previews.forestry.io/post/post-from-forestry-/</guid>
+      <description> hope this works inline math single-dollar wi=xi+∑1iyi
+mathjax fails on forestry
+and what about display math
+ x=n∑i=1xi =∫10exp(−βxi)   why is this quoted haha
+ And some items:
+ one two three  </description>
+    </item>
+    
+  </channel>
+</rss>
